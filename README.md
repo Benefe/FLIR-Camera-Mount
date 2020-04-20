@@ -1,4 +1,5 @@
 # FLIR-Camera-Mount
+3D printable Camera Mount for FLIR Blackfly camera using the GoPro mounting hardware
 
 ## Hardware
 
